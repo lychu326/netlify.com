@@ -1,0 +1,10 @@
+---
+title: 'RStudio '
+author: 刘佳桦
+date: '2019-05-16'
+slug: rstudio
+categories:
+  - R
+tags: []
+---
+RStudio是一款功能强大的自由和开源编程语言和环境，提供了大量的图形和统计方法统计计算和图形。RStudio支持多系统MOX OS X，Linux和Windows系统。

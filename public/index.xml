@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R language</title>
+      <link>/2019/05/16/r-language/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/16/r-language/</guid>
+      <description>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</description>
+    </item>
+    
+    <item>
+      <title>RStudio </title>
+      <link>/2019/05/16/rstudio/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/16/rstudio/</guid>
+      <description>RStudio是一款功能强大的自由和开源编程语言和环境，提供了大量的图形和统计方法统计计算和图形。RStudio支持多系统MOX OS X，Linux和Windows系统。</description>
+    </item>
+    
+    <item>
+      <title>hello,my first blog</title>
+      <link>/2019/05/16/hello-my-first-blog/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/16/hello-my-first-blog/</guid>
+      <description>这是我的第一篇博文</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>这是刘佳桦同学的博客站点</description>
+    </item>
+    
+  </channel>
+</rss>
